@@ -1,0 +1,1 @@
+"C:\Program Files\MeCab\bin\mecab-dict-index" -d "C:\Program Files\MeCab\dic\ipadic" -u shikashikashikaku.dic -f utf-8 -t utf-8 "C:\Users\moya\Desktop\work\python_test\MeCab_add.csv"
